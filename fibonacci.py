@@ -7,6 +7,6 @@ def fibonacci():
     while a < pilihan_n:
         print(a, end=' ')
         a, b = b, a + b
-        
+         
 if __name__ == "__main__":
     fibonacci()
